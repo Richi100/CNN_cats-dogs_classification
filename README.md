@@ -7,11 +7,11 @@ https://www.kaggle.com/datasets/salader/dogs-vs-cats
 Environment - PyCharm
 
 Libraries  -
-numpy
+numpy ,
 matplotlib
-keras
-tensorflow
-Open-cv
+, keras
+ , tensorflow
+ , Open-cv
 
 Neural Network =
 CNN Network
