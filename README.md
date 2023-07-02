@@ -13,5 +13,5 @@ matplotlib
  , tensorflow
  , Open-cv
 
-Neural Network =
+Neural Network -
 CNN Network
